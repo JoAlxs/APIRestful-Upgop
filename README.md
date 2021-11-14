@@ -5,7 +5,7 @@
 ## **Dependencies**
 
 - ##### Bcrypt.js
-	`https://www.npmjs.com/package/bcryptjs
+	@https://www.npmjs.com/package/bcryptjs
 `
 - ##### Class-validator
 	`https://www.npmjs.com/package/class-validator`
