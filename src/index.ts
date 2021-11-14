@@ -13,7 +13,6 @@ import careerRoute from './routes/career.routes'
 import authRoute from './routes/auth.routes'
 import config from './config/config'
 
-
 const PORT = config.PORT;
 
 createConnection().then(async () => {
