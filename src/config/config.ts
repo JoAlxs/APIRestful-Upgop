@@ -1,6 +1,6 @@
 export default {
-    jwtSecret: '@UPGOP',
-    jwtSecretReset: '@upgop123',
+    jwtSecret: 'WordSecret',
+    jwtSecretReset: 'AnotherWordSecret',
     time: '30m',
     PORT: '3000'
 }
