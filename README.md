@@ -39,22 +39,22 @@
 
 ## **Dev Dependencies**
 
-- ##### types/bcryptjs
+- ##### @types/bcryptjs
 `https://www.npmjs.com/package/@types/bcryptjs`
 
-- ##### types/cors
+- ##### @types/cors
 `https://www.npmjs.com/package/@types/cors`
 
-- ##### types/express
+- ##### @types/express
 `https://www.npmjs.com/package/@types/express`
 
-- ##### types/jsonwebtoken
+- ##### @types/jsonwebtoken
 `https://www.npmjs.com/package/@types/jsonwebtoken`
 
-- ##### types/node
+- ##### @types/node
 `https://www.npmjs.com/package/@types/node`
 
-- ##### types/nodemailer
+- ##### @types/nodemailer
 `https://www.npmjs.com/package/@types/nodemailer`
 
 - ##### tsc-watch
