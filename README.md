@@ -4,60 +4,60 @@
 
 ## **Dependencies**
 
-- #####Bcrypt.js
+- ##### Bcrypt.js
 	`https://www.npmjs.com/package/bcryptjs
 `
-- #####Class-validator
+- ##### Class-validator
 	`https://www.npmjs.com/package/class-validator`
 
-- #####Cors.js
+- ##### Cors.js
 	`https://www.npmjs.com/package/cors`
 
-- #####Express.js
+- ##### Express.js
 	`https://www.npmjs.com/package/express`
 
-- #####Helmet
+- ##### Helmet
 	`https://www.npmjs.com/package/helmet`
 
-- #####JSON WebToken
+- ##### JSON WebToken
 	`https://www.npmjs.com/package/jsonwebtoken`
 
-- #####Morgan
+- ##### Morgan
 	`https://www.npmjs.com/package/morgan`
 
-- #####MySQL
+- ##### MySQL
 	`https://www.npmjs.com/package/mysql`
 
-- #####NodeMailer
+- ##### NodeMailer
 	`https://www.npmjs.com/package/nodemailer`
 
-- #####Reflect-Metdata
+- ##### Reflect-Metdata
 	`https://www.npmjs.com/package/reflect-metadata`
 
-- #####TypeORM
+- ##### TypeORM
 	`https://www.npmjs.com/package/typeorm`
 
 ## **Dev Dependencies**
 
-- #####types/bcryptjs
+- ##### types/bcryptjs
 `https://www.npmjs.com/package/@types/bcryptjs`
 
-- #####types/cors
+- ##### types/cors
 `https://www.npmjs.com/package/@types/cors`
 
-- #####types/express
+- ##### types/express
 `https://www.npmjs.com/package/@types/express`
 
-- #####types/jsonwebtoken
+- ##### types/jsonwebtoken
 `https://www.npmjs.com/package/@types/jsonwebtoken`
 
-- #####types/node
+- ##### types/node
 `https://www.npmjs.com/package/@types/node`
 
-- #####types/nodemailer
+- ##### types/nodemailer
 `https://www.npmjs.com/package/@types/nodemailer`
 
-- #####tsc-watch
+- ##### tsc-watch
 `https://www.npmjs.com/package/tsc-watch`
 
 - ##### Typescript
